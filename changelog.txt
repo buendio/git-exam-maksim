@@ -6,3 +6,10 @@
 ## [1.0.0] - 10.08.2021
 ### Added
 -add develop branch
+<<<<<<< HEAD
+=======
+
+## [1.0.1] - 10.08.2021
+### Fixed
+-fix problem with php info
+>>>>>>> hotfix-1.0.1
