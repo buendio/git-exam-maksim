@@ -2,3 +2,11 @@
 ### Added
 -init commit 
 -add index.php
+
+## [1.0.0] - 10.08.2021
+### Added
+-add develop branch
+
+## [1.0.1] - 10.08.2021
+### Fixed
+-fix problem with php info
