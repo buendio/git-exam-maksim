@@ -13,3 +13,7 @@
 ### Fixed
 -fix problem with php info
 >>>>>>> hotfix-1.0.1
+
+## [1.1.0] - 10.08.2021
+### Added  
+-add test.php
